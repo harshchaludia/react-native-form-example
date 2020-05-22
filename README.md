@@ -23,7 +23,7 @@ In the root directory
 ## DIRECTORY STRUCTURE 
 
 <p float="center" width="100%" style="padding-top:50px">
-  <img src="https://github.com/harshchaludia/react-native-drawer/blob/master/screenshots/directory_structure.PNG" width="25%" />
+  <img src="https://github.com/harshchaludia/react-native-form-example/blob/master/screenshots/directory_structure.PNG" width="25%" />
  </p>
 
 
